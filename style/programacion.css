@@ -1,0 +1,35 @@
+table,td {
+	border: 1px solid grey;
+}
+
+table{
+    background-color: deepskyblue;
+}
+
+
+.bloquesdiv{
+    border-radius: 5%;
+}
+
+
+#feb{
+    background-color: red;
+}
+
+td{
+    width: 2%;
+    text-align: center;
+    background-color: white;
+}
+
+a{
+    color: red;
+     text-decoration:none;   
+}
+
+.semana{
+    color: red;
+    font-weight: bold;
+    border-radius: 100%;
+   cursor: pointer;
+}
