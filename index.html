@@ -1,0 +1,42 @@
+<!doctype html>
+
+<html>
+
+<head>
+    <title>CadizCon 2018</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1" />
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="style/font.css">
+    <link rel="stylesheet" type="text/css" href="style/maquetacion-index.css">
+    <link rel="stylesheet" href="style/unsemantic-grid-responsive.css" />
+</head>
+
+<body>
+
+    <div class="navbar">
+        <strong><a href="programacion.html">Programacion</a></strong>
+        <strong> <a href="localizacion.html">Localizacion</a></strong>
+        <strong>  <a href="generos.html">Generos</a></strong>
+        <strong>  <a href="autores.html">Autores</a></strong>
+        <strong> <a href="galeria.html">Galeria</a></strong>
+    </div>
+    <div class="container" id="index">
+        <div class="grid-100" id="mensaje-inicio">
+            <img src="img/header.png" id="foto-inicio">
+        </div>
+        <div clas="grid-100" id="ejemplo">
+            <canvas id="titulo" width="700" height="100"> </canvas>
+           <script>
+                var c = document.getElementById("titulo");
+                var ctx = c.getContext("2d");
+                ctx.font = "30px Sans-serif";
+                ctx.fillText("XXI Salón Internacional del Cómic de Cádiz", 10, 50);
+            </script>
+        </div>
+         
+    </div>
+    
+</body>
+</html>
