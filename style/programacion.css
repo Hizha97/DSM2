@@ -10,8 +10,16 @@ table{
     margin-left: 10px;
 }
 
+.bloquesdias{
+    margin-left: 5px;
+}
+
 #fotopeople{
     height: 235px;
+}
+
+.bloques{
+    background-color: antiquewhite;
 }
 
 #pinturaVR{
@@ -25,6 +33,7 @@ table{
 .bloquesdiv{
     border-radius: 5%;
 }
+
 
 
 #feb{
