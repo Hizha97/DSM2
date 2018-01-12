@@ -62,3 +62,9 @@ body {
     margin-right: 5px;
     float: right;
 }
+#yellow-block
+{
+    background-color: #ccff33;
+    height: 600px;
+    padding: 10px;
+}
