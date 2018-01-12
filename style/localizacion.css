@@ -15,7 +15,17 @@
     text-align: center;
     background-color: #D6D310;
     height: 200px;
+}
 
+@font-face {
+    font-family: "Futura";
+    font-style: normal;
+    font-weight: normal;
+    src: local("?"), url("/fonts/futurastd-light-webfont.woff") format("woff"), url("/fonts/futurastd-light-webfont.ttf") format("truetype");
+}
 
+h2{
+    margin-top: 150px;
+    font: FunSized;
 }
 
