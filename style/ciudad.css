@@ -6,8 +6,14 @@
 }
 
 #inicio-cadiz{
-    font-family: sans-serif;
+    font-family: 'Lucida Console Normal';
     margin-top: 100px;
     text-align: center;
     font-size: 70px;
+}
+
+.grid-85{
+    margin-top: 10px;
+    margin-left: 105px;
+    margin-right: auto;
 }
