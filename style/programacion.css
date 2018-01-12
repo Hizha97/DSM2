@@ -6,6 +6,17 @@ table{
     background-color: deepskyblue;
 }
 
+#fotopeople{
+    height: 235px;
+}
+
+#pinturaVR{
+    height: 180px;
+}
+
+#despedida{
+    height: 230px;
+}
 
 .bloquesdiv{
     border-radius: 5%;
