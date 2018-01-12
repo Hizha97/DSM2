@@ -1,29 +1,21 @@
-
-#m-localizacion{
-    text-align: center;
-    background-color: #DA1C5C;
+#foto-localizacion{
     height: 300px;
+    width:1345px;
 }
 
-#m-ciudad{
-    text-align: center;
-    background-color: #D6D310;
-    height: 200px;
+#foto-ciudad{
+  height: 200px;
+  width: 650px;
+
 }
 
-#m-edificio{
-    text-align: center;
-    background-color: #D6D310;
-    height: 200px;
-}
-
-@font-face{
-    font-family: "FunSized";
-    src: url(C:\Users\fanny\OneDrive\Documentos\GitHub\DSM2\fuentes/FunSized.ttf);
+#foto-edificio{
+  height: 200px;
+  width: 650px;
+  margin-left: 10px;
 }
 
 h2{
     margin-top: 150px;
-    font: FunSized;
 }
 
