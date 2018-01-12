@@ -6,6 +6,10 @@ table{
     background-color: deepskyblue;
 }
 
+.dias{
+    margin-left: 10px;
+}
+
 #fotopeople{
     height: 235px;
 }
