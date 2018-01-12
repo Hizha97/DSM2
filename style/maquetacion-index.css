@@ -62,9 +62,11 @@ body {
     margin-right: 5px;
     float: right;
 }
-#yellow-block
+
+.botones
 {
-    background-color: #ccff33;
-    height: 600px;
-    padding: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
 }
