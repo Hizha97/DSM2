@@ -36,24 +36,22 @@ body {
     height: 1500px;
 }
 
-#mensaje-inicio
-{
+#mensaje-inicio {
     background-image: url("./../img/indexbackground.jpg");
     background-position: center;
-    background-repeat: no-re: ;peat;
+    background-repeat: no-repeat;
     background-size: cover;
 }
 
-#foto-inicio
-{
+#foto-inicio {
     display: block;
     margin-left: auto;
     margin-right: auto;
     margin-top: 20px;
     height: 300px;
 }
-#logo
-{
+
+#logo {
     height: 50px;
     width: 70px;
     margin-left: 34px;
@@ -63,10 +61,32 @@ body {
     float: right;
 }
 
-.botones
-{
+.botones {
     display: block;
     margin-left: auto;
     margin-right: auto;
     margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#presentacion {
+    background-image: url("./../img/bloqueindex.png");
+    position: inherit;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    min-height: 248px;
+}
+
+#footerindex {
+    background-image: -moz-linear-gradient( -124deg, rgb(129, 185, 249) 0%, rgb(1, 143, 253) 100%);
+    background-image: -webkit-linear-gradient( -124deg, rgb(129, 185, 249) 0%, rgb(1, 143, 253) 100%);
+    background-image: -ms-linear-gradient( -124deg, rgb(129, 185, 249) 0%, rgb(1, 143, 253) 100%);
+}
+
+#cadiz {
+    background-image: url("./../img/cadiz.jpg");
+    width: 100%;
+    height: 662px;
+    background-repeat: no-repeat;
 }
