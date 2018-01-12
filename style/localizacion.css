@@ -17,11 +17,9 @@
     height: 200px;
 }
 
-@font-face {
-    font-family: "Futura";
-    font-style: normal;
-    font-weight: normal;
-    src: local("?"), url("/fonts/futurastd-light-webfont.woff") format("woff"), url("/fonts/futurastd-light-webfont.ttf") format("truetype");
+@font-face{
+    font-family: "FunSized";
+    src: url(C:\Users\fanny\OneDrive\Documentos\GitHub\DSM2\fuentes/FunSized.ttf);
 }
 
 h2{
