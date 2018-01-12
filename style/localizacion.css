@@ -1,7 +1,21 @@
-.grid-100{
-    
+
+#m-localizacion{
+    text-align: center;
+    background-color: #DA1C5C;
+    height: 300px;
 }
 
-h2{
+#m-ciudad{
     text-align: center;
+    background-color: #D6D310;
+    height: 200px;
 }
+
+#m-edificio{
+    text-align: center;
+    background-color: #D6D310;
+    height: 200px;
+
+
+}
+
