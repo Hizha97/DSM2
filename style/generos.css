@@ -1,0 +1,18 @@
+#dibujo1{
+    width:290px;
+    height: 200px;
+}
+
+#dibujo2{
+    height: 203px;
+    width: 290px;
+    left: 0;
+    margin-left: -5px;
+}
+
+#dibujo3{
+    height: 200px;
+    width: 290px;
+    left: 0;
+    
+}
