@@ -17,3 +17,18 @@
     margin-left: 105px;
     margin-right: auto;
 }
+
+#actividades{
+    margin-top: 0;
+    font-family: 'Lucida Console Normal';
+}
+
+#gastro{
+    width: 427px;
+    height: 500px;
+}
+
+#monum{
+    width: 427px;
+    height: 320px;
+}
